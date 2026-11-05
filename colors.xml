@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ocean_deep">#0B1D3A</color>
+    <color name="ocean_mid">#123A6B</color>
+    <color name="ocean_light">#1F6F9C</color>
+    <color name="text_main">#F2F9FF</color>
+    <color name="text_soft">#B9D9EE</color>
+    <color name="card_idle">#1AFFFFFF</color>
+    <color name="card_focus">#3D5FB8E6</color>
+    <color name="accent">#9FE3FF</color>
+</resources>
